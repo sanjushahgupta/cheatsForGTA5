@@ -21,5 +21,5 @@ An app that has cheat codes for GTA 5 on different platforms such as Xbox, Plays
 - kotlin
 - Jetpack
 
-## Feedback![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+## Feedback! (https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 If you have any feedback, please reach out to me at sanjushahgupta@gmail.com
